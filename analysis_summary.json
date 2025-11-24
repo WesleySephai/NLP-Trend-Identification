@@ -1,0 +1,78 @@
+{
+    "wins_top5": [
+        [
+            "engagementandcommunication",
+            4
+        ],
+        [
+            "nothing",
+            3
+        ],
+        [
+            "isuccessfullyadvancedtotheassignmentstageofthealxinternshipaftercompletingmyinterviewtheexperiencewaspositiveoverallandifeltconfidentdemonstratingmyskillsandmotivationfortherole",
+            2
+        ],
+        [
+            "completingmyfirstweekwithumuzigavemeconfidenceandasenseofpurposeiespeciallyenjoyedthedesignthinkingandodysseyplanexerciseswhichhelpedmeplanandcommitmoreeffectively",
+            1
+        ],
+        [
+            "ienjoyedintrospectingmyselfonthebasisofbuildingthoseprototypesandlivesasmuchastheywerenotrealtheyignitedmetothinkofmypurposeandseehowicanblenditwithmyformaleducationandskillstobettermyselfandcommunityaswholelastlyihavecompletedmydiplomainlawandawaitinganacceptanceintollbdegree",
+            1
+        ]
+    ],
+    "losses_top5": [
+        [
+            "none",
+            4
+        ],
+        [
+            "everythingwentwell",
+            4
+        ],
+        [
+            "nothing",
+            3
+        ],
+        [
+            "na",
+            2
+        ],
+        [
+            "timemanagement",
+            2
+        ]
+    ],
+    "blockers_top5": [
+        [
+            "none",
+            5
+        ],
+        [
+            "iwassick",
+            4
+        ],
+        [
+            "data",
+            3
+        ],
+        [
+            "na",
+            3
+        ],
+        [
+            "nothing",
+            3
+        ]
+    ],
+    "wins_sentiment": {
+        "positive": 229,
+        "neutral": 130,
+        "negative": 13
+    },
+    "losses_sentiment": {
+        "positive": 106,
+        "neutral": 195,
+        "negative": 71
+    }
+}
